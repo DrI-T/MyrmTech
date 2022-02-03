@@ -8,6 +8,7 @@ MinWork: 5hr/wk
 
 
 Company: https://www.pmfus.com/
+Contact: Michael-Jabbour
 
 Summary:
 Looking for a Cryptocurrency Architect to work 1:1 with the client
