@@ -7,3 +7,5 @@ period: 2/2 - 2/12
 2/4:  2:56 -> 2.93 estimation of what is collectible
 2/8:  4:48 -> 4.8 chain crawler, proof of loss notes
 
+2/16:      -> 0.35 meeting
+2/21: 3:38 -> 3.64 meeting, git, and question to JP
