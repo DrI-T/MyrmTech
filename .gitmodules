@@ -1,0 +1,3 @@
+[submodule "egcoin"]
+	path = egcoin
+	url = git@drit.github.com:engageconsultingllc/egcoin.git
